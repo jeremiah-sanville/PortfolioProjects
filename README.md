@@ -29,9 +29,9 @@ In this section I will list data analytics projects and briefly describing the t
 
 ### Divvy Bikeshare Rider Differences
 **Code & Report:** [`Divvy.r`](https://www.kaggle.com/code/konoxians/divvy-annual-members-vs-casual-riders)    
-**Description:** Bikesharing services are an emerging public service in many United States cities. It gives anyone on the street the ability to ride a bike for fun, travel, or a commute to work without having to invest and maintain a bike. These bikesharing services usually have two different options for payment: a membership or a one-time casual rate. My business task, as part of the marketing analyst team, is to find valuable insights and trends of how annual members and casual riders use Divvy differently.
+**Description:** Bikesharing services are an emerging public service in many United States cities. It gives anyone on the street the ability to ride a bike for fun, travel, or a commute to work without having to invest and maintain a bike. These bikesharing services usually have two different options for payment: a membership or a one-time casual rate. My business task, as part of the marketing analyst team, is to find valuable insights and trends of how annual members and casual riders use Divvy differently.                                                                               
 **Skills:** Data cleaning, manipulation, analysis, heatmapping, and visualization.  
-**Technology:** R and various packages (tidyverse, validate, ggmap, data.table)
+**Technology:** R and various packages (tidyverse, validate, ggmap, data.table)                                                            
 **Results:** Gathered multiple insights on how annual members and casual riders use Divvy differently. Recommendations to the marketing analyst team were presented targeting these differences. I also had recommendations for improved data collection to improve future analysis. 
 
 
