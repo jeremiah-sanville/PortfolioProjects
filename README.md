@@ -8,7 +8,6 @@ when I found the Google Data Analytics Certification, I was highly interested. I
 
 This is a repository to showcase my skills and projects in the data analytics/science field.
 
-
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
