@@ -12,8 +12,8 @@ This is a repository to showcase my skills and projects in the data analytics/sc
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Divvy: Annual Members vs Casual Riders](#Divvy: Annual Members vs Casual Riders)
-	+ [COVID-19 Statistics](#COVID-19 Statistics)
+	+ [COVID-19 Statistics](#COVID-19-Statistics)
+	+ [Divvy: Annual Members vs Casual Riders](#Divvy:-Annual-Members-vs-Casual-Riders)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
