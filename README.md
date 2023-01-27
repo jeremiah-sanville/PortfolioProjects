@@ -1,6 +1,6 @@
 # Jeremiah Sanville - Data Analytics Portfolio
 
-### About
+## About
 
 Hi, I'm **Jeremiah Sanville**. I'm an aspiring data analyst with a background of a bachelor's degree in psychology at the University of Southern Maine.
 During my study, I found that I loved to work with the data we found and make visualizations. Coupled with my love of computers and past coding experience,
@@ -12,7 +12,7 @@ This is a repository to showcase my skills and projects in the data analytics/sc
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 	+ [COVID-19 Statistics](#COVID-19-Statistics)
-	+ [Divvy: Annual Members vs Casual Riders](#Divvy:-Annual-Members-vs-Casual-Riders)
+	+ [Divvy: Annual Members vs Casual Riders](#Divvy: Annual-Members-vs-Casual-Riders)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
