@@ -37,7 +37,7 @@ In this section I will list data analytics projects and briefly describing the t
 
 ## Certificates
 
-[Google Data Analytics Certification]([https://drive.google.com/file/d/1-12jUVj8OcLlTQ3147syWIP4nf9a2n9P/view?usp=sharing](https://www.coursera.org/account/accomplishments/specialization/certificate/XYU9B7NTK7Z7)) (Oct 2022) (Google Career Certificates)
+[Google Data Analytics Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/XYU9B7NTK7Z7) (Oct 2022) (Google Career Certificates)
 
 ## Contacts
 - LinkedIn: [@jeremiah-sanville](https://www.linkedin.com/in/jeremiah-sanville/)
