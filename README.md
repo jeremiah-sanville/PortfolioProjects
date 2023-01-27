@@ -2,11 +2,11 @@
 
 ## About
 
-Hi, I'm **Jeremiah Sanville**. I'm an aspiring data analyst with a background of a bachelor's degree in psychology at the University of Southern Maine.
+Hi, I'm Jeremiah Sanville. I'm an aspiring data analyst with a background of a bachelor's degree in psychology at the University of Southern Maine.
 During my study, I found that I loved to work with the data we found and make visualizations. Coupled with my love of computers and past coding experience,
 when I found the Google Data Analytics Certification, I was highly interested. I learned a plethora of tools including SQL, R, and Tableau and developed data cleaning, analysis and visualization skills. I've been eager in learning new tools and refining my skills ever since.
 
-This is a repository to showcase my skills and projects in the data analytics/science field.
+This is a repository to showcase my skills and projects in the data analytics and data science field.
 
 ## Table of contents
 - [About](#about)
