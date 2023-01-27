@@ -22,9 +22,9 @@ In this section I will list data analytics projects and briefly describing the t
 ### COVID-19 Statistics
 **Code:** [`COVID Portfolio Project Queries.sql`]()
 **Dashboard:** [`Tableau`](https://public.tableau.com/app/profile/jeremiah.sanville/viz/COVIDPortfolioProject_16748248126930/Dashboard1#1)   
-**Description:** COVID-19 has been a globally pressing issue ever since it emerged in the past few years. This project aimed to use SQL to create a COVID-19 dashboard using Tableau. The dashboard is based on data that's updated daily in order to see the current outlook on the virus.
-**Skills:** Data extraction, manipulation and visualization. 
-**Technology:** SQL, Tableau, Excel
+**Description:** COVID-19 has been a globally pressing issue ever since it emerged in the past few years. This project aimed to use SQL to create a COVID-19 dashboard using Tableau. The dashboard is based on data that's updated daily in order to see the current outlook on the virus.                             
+**Skills:** Data extraction, manipulation and visualization.                                                                  
+**Technology:** SQL, Tableau, Excel                                                                
 **Results:** A dashboard that accurately represents present day COVID-19 data with projections for the future.  
 
 ### Divvy Bikeshare Rider Differences
