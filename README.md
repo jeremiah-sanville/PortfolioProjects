@@ -7,7 +7,7 @@ During my study, I found that I loved to work with the data we found and make vi
 when I found the Google Data Analytics Certification, I was highly interested. I learned a plethora of tools including SQL, R, and Tableau and developed data cleaning, analysis and visualization skills. I've been eager in learning new tools and refining my skills ever since.
 
 This is a repository to showcase my skills and projects in the data analytics and data science field.
-### Tools I've Used and Learned
+
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="45" height="45"/>
