@@ -8,6 +8,12 @@ when I found the Google Data Analytics Certification, I was highly interested. I
 
 This is a repository to showcase my skills and projects in the data analytics and data science field.
 
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
+
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
