@@ -40,7 +40,7 @@ In this section I will list data analytics projects and briefly describing the t
 **Results:** A dashboard that accurately represents present day COVID-19 data with projections for the future.  
 
 ### Divvy Bikeshare Rider Differences
-**Code & Report:** [`Kaggle Report`](https://www.kaggle.com/code/konoxians/divvy-annual-members-vs-casual-riders)    
+**Code & Report:** [`Kaggle`](https://www.kaggle.com/code/konoxians/divvy-annual-members-vs-casual-riders)    
 **Description:** Bikesharing services are an emerging public service in many United States cities. It gives anyone on the street the ability to ride a bike for fun, travel, or a commute to work without having to invest and maintain a bike. These bikesharing services usually have two different options for payment: a membership or a one-time casual rate. My business task, as part of the marketing analyst team, is to find valuable insights and trends of how annual members and casual riders use Divvy differently.                                                                               
 **Skills:** Data cleaning, manipulation, analysis, heatmapping, and visualization.  
 **Technology:** R and various packages (tidyverse, validate, ggmap, data.table)                                                            
