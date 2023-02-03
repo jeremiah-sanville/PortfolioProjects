@@ -33,7 +33,7 @@ This is a repository to showcase my skills and projects in the data analytics an
 In this section I will list data analytics projects and briefly describing the tools and skills used for analysis.
 
 ### LinkedIn Web Scrape Project
-**Code:** [`LinkedInWebScraper.ipynb`](https://github.com/jeremiah-sanville/jeremiah-sanville/blob/main/COVID%20Portfolio%20Project%20Queries.sql)
+**Code:** [`LinkedInWebScraper.ipynb`](https://github.com/jeremiah-sanville/jeremiah-sanville/blob/main/COVID%20Portfolio%20Project%20Queries.sql)                     
 **Description:** This project aimed to do data scraping on the popular job board website LinkedIn. I specified the job search for data analyst jobs in Łódź, Poland. The scraped data was exported to a CSV for visualization capabilities.                          
 **Skills:** Data scraping and data manipulation.                                                                   
 **Technology:** Python, HTML, BeautifulSoup,                                                                 
