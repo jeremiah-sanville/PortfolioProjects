@@ -18,6 +18,7 @@ This is a repository to showcase my skills and projects in the data analytics an
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="markdown" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
+<img src="https://cdn.iconscout.com/icon/free/png-512/html5-41-1175209.png?f=avif&w=256" alt="html5" width="45" height="45"/>
 </p>
 
 ## Table of contents
@@ -30,6 +31,14 @@ This is a repository to showcase my skills and projects in the data analytics an
 
 ## Portfolio Projects
 In this section I will list data analytics projects and briefly describing the tools and skills used for analysis.
+
+### LinkedIn Web Scrape Project
+**Code:** [`LinkedInWebScraper.ipynb`](https://github.com/jeremiah-sanville/jeremiah-sanville/blob/main/COVID%20Portfolio%20Project%20Queries.sql)
+**Description:** This project aimed to do data scraping on the popular job board website LinkedIn. I specified the job search for data analyst jobs in Łódź, Poland. The scraped data was exported to a CSV for visualization capabilities.                          
+**Skills:** Data scraping and data manipulation.                                                                   
+**Technology:** Python, HTML, BeautifulSoup,                                                                 
+**Results:** A CSV file that includes data from all jobs from a filtered search on LinkedIn. 
+
 
 ### COVID-19 Statistics
 **Code:** [`COVID Portfolio Project Queries.sql`](https://github.com/jeremiah-sanville/jeremiah-sanville/blob/main/COVID%20Portfolio%20Project%20Queries.sql)                                                                                                
