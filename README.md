@@ -24,22 +24,14 @@ This is a repository to showcase my skills and projects in the data analytics an
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [LinkedIn Web Scrape Project](#LinkedIn-Web-Scrape-Project)
 	+ [COVID-19 Statistics](#COVID-19-Statistics)
 	+ [Divvy Bikeshare Rider Differences](#Divvy-Bikeshare-Rider-Differences)
+	+ [LinkedIn Web Scrape Project](#LinkedIn-Web-Scrape-Project)
 - [Certifications](#certifications)
 - [Contacts](#contacts)
 
 ## Portfolio Projects
 In this section I will list data analytics projects and briefly describing the tools and skills used for analysis.
-
-### LinkedIn Web Scrape Project
-**Code:** [`LinkedInWebScraper.ipynb`](https://github.com/jeremiah-sanville/jeremiah-sanville/blob/main/LinkedIn%20Web%20Scrape%20Project.ipynb)                     
-**Description:** This project aimed to do data scraping with Python on the popular job board website LinkedIn. I specified the job search for data analyst jobs in Łódź, Poland. The scraped data was exported to a CSV for visualization capabilities.                          
-**Skills:** Data scraping and manipulation.                                                                  
-**Technology:** Python, HTML, BeautifulSoup                                                                
-**Results:** A CSV file that includes data from all jobs in a filtered search on LinkedIn. 
-
 
 ### COVID-19 Statistics
 **Code:** [`COVID Portfolio Project Queries.sql`](https://github.com/jeremiah-sanville/jeremiah-sanville/blob/main/COVID%20Portfolio%20Project%20Queries.sql)                                                                                                
@@ -56,6 +48,12 @@ In this section I will list data analytics projects and briefly describing the t
 **Technology:** R and various packages (tidyverse, validate, ggmap, data.table)                                                            
 **Results:** Gathered multiple insights on how annual members and casual riders use Divvy differently. Recommendations to the marketing analyst team were presented targeting these differences. I also had recommendations for improved data collection to improve future analysis. 
 
+### LinkedIn Web Scrape Project
+**Code:** [`LinkedInWebScraper.ipynb`](https://github.com/jeremiah-sanville/jeremiah-sanville/blob/main/LinkedIn%20Web%20Scrape%20Project.ipynb)                     
+**Description:** This project aimed to do data scraping with Python on the popular job board website LinkedIn. I specified the job search for data analyst jobs in Łódź, Poland. The scraped data was exported to a CSV for visualization capabilities.                          
+**Skills:** Data scraping and manipulation.                                                                  
+**Technology:** Python, HTML, BeautifulSoup                                                                
+**Results:** A CSV file that includes data from all jobs in a filtered search on LinkedIn. 
 
 ## Certificates
 
