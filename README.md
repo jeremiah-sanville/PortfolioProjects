@@ -24,10 +24,10 @@ This is a repository to showcase my skills and projects in the data analytics an
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
+	+ [LinkedIn Web Scrape Project](#LinkedIn Web Scrape Project)
 	+ [COVID-19 Statistics](#COVID-19-Statistics)
 	+ [Divvy Bikeshare Rider Differences](#Divvy-Bikeshare-Rider-Differences)
-	+ [LinkedIn Web Scrape Project](#LinkedIn Web Scrape Project)
-- [Certificates](#certificates)
+- [Certifications](#certifications)
 - [Contacts](#contacts)
 
 ## Portfolio Projects
@@ -35,10 +35,10 @@ In this section I will list data analytics projects and briefly describing the t
 
 ### LinkedIn Web Scrape Project
 **Code:** [`LinkedInWebScraper.ipynb`](https://github.com/jeremiah-sanville/jeremiah-sanville/blob/main/LinkedIn%20Web%20Scrape%20Project.ipynb)                     
-**Description:** This project aimed to do data scraping on the popular job board website LinkedIn. I specified the job search for data analyst jobs in Łódź, Poland. The scraped data was exported to a CSV for visualization capabilities.                          
-**Skills:** Data scraping and data manipulation.                                                                   
-**Technology:** Python, HTML, BeautifulSoup,                                                                 
-**Results:** A CSV file that includes data from all jobs from a filtered search on LinkedIn. 
+**Description:** This project aimed to do data scraping with Python on the popular job board website LinkedIn. I specified the job search for data analyst jobs in Łódź, Poland. The scraped data was exported to a CSV for visualization capabilities.                          
+**Skills:** Data scraping and manipulation.                                                                  
+**Technology:** Python, HTML, BeautifulSoup                                                                
+**Results:** A CSV file that includes data from all jobs in a filtered search on LinkedIn. 
 
 
 ### COVID-19 Statistics
