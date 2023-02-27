@@ -24,9 +24,9 @@ This is a repository to showcase my skills and projects in the data analytics an
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Divvy Bikeshare Rider Differences](#Divvy-Bikeshare-Rider-Differences)
-	+ [COVID-19 Statistics](#COVID-19-Statistics)
-	+ [LinkedIn Web Scrape Project](#LinkedIn-Web-Scrape-Project)
+	+ [Divvy Bikeshare Rider Differences (R)](#Divvy-Bikeshare-Rider-Differences)
+	+ [COVID-19 Statistics (SQL)](#COVID-19-Statistics)
+	+ [LinkedIn Web Scrape Project (Python)](#LinkedIn-Web-Scrape-Project)
 - [Certifications](#certifications)
 - [Contacts](#contacts)
 
