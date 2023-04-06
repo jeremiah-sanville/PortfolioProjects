@@ -26,7 +26,7 @@ This is a repository to showcase my skills and projects in the data analytics an
 - [Portfolio Projects](#portfolio-projects)
 	+ [Divvy Bikeshare Rider Differences (R)](#Divvy-Bikeshare-Rider-Differences)
 	+ [COVID-19 Statistics (SQL)](#COVID-19-Statistics)
-	+ [LinkedIn Web Scrape Project (Python)](#LinkedIn-Web-Scrape-Project)
+	+ [LinkedIn Web Scrape Project (Python)](#LinkedIn-Web-Scrape)
 - [Certifications](#certifications)
 - [Contacts](#contacts)
 
@@ -48,7 +48,7 @@ In this section I will list data analytics projects and briefly describing the t
 **Technology:** SQL, Tableau, Excel                                                                
 **Results:** A dashboard that accurately represents present day COVID-19 data with projections for the future.  
 
-### LinkedIn Web Scrape Project
+### LinkedIn Web Scrape
 **Code:** [`LinkedInWebScraper.ipynb`](https://github.com/jeremiah-sanville/jeremiah-sanville/blob/main/LinkedIn%20Web%20Scrape%20Project.ipynb)                     
 **Description:** This project aimed to do data scraping with Python on the popular job board website LinkedIn. I specified the job search for data analyst jobs in Łódź, Poland. The scraped data was exported to a CSV for visualization capabilities.                          
 **Skills:** Data scraping and manipulation.                                                                  
