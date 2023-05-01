@@ -35,24 +35,24 @@ In this section I will list data analytics projects and briefly describing the t
 
 ### Divvy Bikeshare Rider Differences
 **Code & Report:** [`Kaggle`](https://www.kaggle.com/code/konoxians/divvy-annual-members-vs-casual-riders)    
-**Description:** Bikesharing services are an emerging public service in many United States cities. It gives anyone on the street the ability to ride a bike for fun, travel, or a commute to work without having to invest and maintain a bike. These bikesharing services usually have two different options for payment: a membership or a one-time casual rate. My business task, as part of the marketing analyst team, is to find valuable insights and trends of how annual members and casual riders use Divvy differently.                                                                               
+**Technology:** R and various packages (tidyverse, validate, ggmap, data.table)                                      
 **Skills:** Data cleaning, manipulation, analysis, heatmapping, and visualization.  
-**Technology:** R and various packages (tidyverse, validate, ggmap, data.table)                                                            
+**Description:** Bikesharing services are an emerging public service in many United States cities. It gives anyone on the street the ability to ride a bike for fun, travel, or a commute to work without having to invest and maintain a bike. These bikesharing services usually have two different options for payment: a membership or a one-time casual rate. My business task, as part of the marketing analyst team, is to find valuable insights and trends of how annual members and casual riders use Divvy differently.                                                                               
 **Results:** Gathered multiple insights on how annual members and casual riders use Divvy differently. Recommendations to the marketing analyst team were presented targeting these differences. I also had recommendations for improved data collection to improve future analysis. 
 
 ### COVID-19 Statistics
 **Code:** [`COVID Portfolio Project Queries.sql`](https://github.com/jeremiah-sanville/jeremiah-sanville/blob/main/COVID%20Portfolio%20Project%20Queries.sql)                                                                                                
 **Dashboard:** [`Tableau`](https://public.tableau.com/app/profile/jeremiah.sanville/viz/COVIDPortfolioProject_16748248126930/Dashboard1#1)   
-**Description:** COVID-19 has been a globally pressing issue ever since it emerged in the past few years. This project aimed to use SQL to create a COVID-19 dashboard using Tableau. The dashboard is based on data that's updated daily in order to see the current outlook on the virus.                             
-**Skills:** Data extraction, manipulation and visualization.                                                                  
 **Technology:** SQL, Tableau, Excel                                                                
+**Skills:** Data extraction, manipulation and visualization.                                                                  
+**Description:** COVID-19 has been a globally pressing issue ever since it emerged in the past few years. This project aimed to use SQL to create a COVID-19 dashboard using Tableau. The dashboard is based on data that's updated daily in order to see the current outlook on the virus.                             
 **Results:** A dashboard that accurately represents present day COVID-19 data with projections for the future.  
 
 ### LinkedIn Web Scrape
 **Code:** [`LinkedInWebScraper.ipynb`](https://github.com/jeremiah-sanville/jeremiah-sanville/blob/main/LinkedIn%20Web%20Scrape%20Project.ipynb)                     
-**Description:** This project aimed to do data scraping with Python on the popular job board website LinkedIn. I specified the job search for data analyst jobs in Łódź, Poland. The scraped data was exported to a CSV for visualization capabilities.                          
-**Skills:** Data scraping and manipulation.                                                                  
 **Technology:** Python, HTML, BeautifulSoup                                                                
+**Skills:** Data scraping and manipulation.                                                                  
+**Description:** This project aimed to do data scraping with Python on the popular job board website LinkedIn. I specified the job search for data analyst jobs in Łódź, Poland. The scraped data was exported to a CSV for visualization capabilities.                          
 **Results:** A CSV file that includes data from all jobs in a filtered search on LinkedIn. 
 
 ## Certificates
