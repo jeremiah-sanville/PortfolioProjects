@@ -2,9 +2,7 @@
 
 ## About
 
-Hi, I'm an aspiring data analyst with a background of a bachelor's degree in psychology at the University of Southern Maine.
-During my study, I found that I loved to work with the data we found and make visualizations. Coupled with my love of data and past coding experience,
-when I found the Google Data Analytics Certification, I was highly interested. I learned a plethora of tools including SQL, R, PowerBI and Tableau and developed skills such as data cleaning, manipulation, analysis, and visualization. I've been eager in learning new tools and refining my skills ever since.
+Hi, I'm an aspiring data analyst with a background of a bachelor's degree in psychology at the University of Southern Maine. During my academic journey, I discovered my affinity for working with data and transforming it into captivating visual representations. This realization, combined with my preexisting coding experience, ignited a deep interest when I came across the Google Data Analytics Certification. This comprehensive program equipped me with a diverse array of valuable tools, including SQL, R, PowerBI, and Tableau. Through this certification, I honed my abilities in data cleaning, manipulation, analysis, and visualization. The process has only intensified my eagerness to acquire new tools and refine my skills further.
 
 This is a repository to showcase my skills and projects in the data analytics and data science field.
 
@@ -31,7 +29,7 @@ This is a repository to showcase my skills and projects in the data analytics an
 - [Contacts](#contacts)
 
 ## Portfolio Projects
-In this section I will list data analytics projects and briefly describing the tools and skills used for analysis.
+In this section, I will list data analytics projects and briefly describe the tools and skills used for analysis.
 
 ### Divvy Bikeshare Rider Differences
 **Code & Report:** [`Kaggle`](https://www.kaggle.com/code/konoxians/divvy-annual-members-vs-casual-riders)    
