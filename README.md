@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, I'm an aspiring data analyst with a background of a bachelor's degree in psychology at the University of Southern Maine. During my academic journey, I discovered my affinity for working with data and transforming it into captivating visual representations. This realization, combined with my preexisting coding experience, ignited a deep interest when I came across the Google Data Analytics Certification. This comprehensive program equipped me with a diverse array of valuable tools, including SQL, R, PowerBI, and Tableau. Through this certification, I honed my abilities in data cleaning, manipulation, analysis, and visualization. The process has only intensified my eagerness to acquire new tools and refine my skills further.
+Hi, I'm a data analyst with a bachelor's degree in psychology from the University of Southern Maine. I discovered my passion for working with data during my studies and enjoyed creating visualizations. After completing the Google Data Analytics Certification, I gained expertise in SQL, R, PowerBI, and Tableau, along with skills in data cleaning, manipulation, analysis, and visualization. I'm constantly eager to learn new tools and enhance my skills.
 
 This is a repository to showcase my skills and projects in the data analytics and data science field.
 
