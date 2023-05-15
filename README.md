@@ -23,6 +23,7 @@ This is a repository to showcase my skills and projects in the data analytics an
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 	+ [Divvy Bikeshare Rider Differences (R)](#Divvy-Bikeshare-Rider-Differences)
+	+ [Sales Insights (SQL)](#Sales-Insights)
 	+ [COVID-19 Statistics (SQL)](#COVID-19-Statistics)
 	+ [LinkedIn Web Scrape Project (Python)](#LinkedIn-Web-Scrape)
 - [Certifications](#certifications)
@@ -38,8 +39,8 @@ In this section, I will list data analytics projects and briefly describe the to
 **Results:** Gathered multiple insights on how annual members and casual riders use Divvy differently. Recommendations to the marketing analyst team were presented targeting these differences. I also had recommendations for improved data collection to improve future analysis. 
 
 ### Sales Insights
-**Code:** [`Sales Insights.sql`](https://www.kaggle.com/code/konoxians/divvy-annual-members-vs-casual-riders)    
-**Dashboard:** [`Sales Insights BI.pdf`](https://www.kaggle.com/code/konoxians/divvy-annual-members-vs-casual-riders)                                                                        
+**Code:** [`Sales Insights.sql`](https://github.com/jeremiah-sanville/jeremiah-sanville/blob/main/Sales%20Insights.sql)    
+**Dashboard:** [`Sales Insights BI.pdf`](https://github.com/jeremiah-sanville/jeremiah-sanville/blob/main/Sales%20Insights%20BI.pdf)                                                                        
 **Technology:** SQL, MySQL, Power BI                                      
 **Skills:** Data cleaning, manipulation, analysis, visualization, star schema creation, and DAX.                                                                      
 **Results:** Created a dashboard that provides insights on the company's top/bottom markets and customers with date adjustable functionality. 
