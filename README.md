@@ -39,7 +39,7 @@ In this section, I will list data analytics projects and briefly describe the to
 
 ### Sales Insights
 **Code:** [`Sales Insights.sql`](https://www.kaggle.com/code/konoxians/divvy-annual-members-vs-casual-riders)    
-**Dashboard:** [`Sales Insights BI.pdf`](https://www.kaggle.com/code/konoxians/divvy-annual-members-vs-casual-riders)
+**Dashboard:** [`Sales Insights BI.pdf`](https://www.kaggle.com/code/konoxians/divvy-annual-members-vs-casual-riders)                                                                        
 **Technology:** SQL, MySQL, Power BI                                      
 **Skills:** Data cleaning, manipulation, analysis, visualization, star schema creation, and DAX.                                                                      
 **Results:** Created a dashboard that provides insights on the company's top/bottom markets and customers with date adjustable functionality. 
