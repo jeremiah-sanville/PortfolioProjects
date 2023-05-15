@@ -36,7 +36,7 @@ In this section, I will list data analytics projects and briefly describe the to
 **Code & Report:** [`Kaggle`](https://www.kaggle.com/code/konoxians/divvy-annual-members-vs-casual-riders)    
 **Technology:** R and various packages (tidyverse, validate, ggmap, data.table)                                      
 **Skills:** Data cleaning, manipulation, analysis, heatmapping, and visualization.                                                                            
-**Results:** Gathered multiple insights on how annual members and casual riders use Divvy differently. Recommendations to the marketing analyst team were presented targeting these differences. I also had recommendations for improved data collection to improve future analysis. 
+**Results:** Gathered multiple insights and created multiple visualizations on how annual members and casual riders use Divvy differently. Recommendations to the marketing analyst team were presented targeting these differences. I also had recommendations for improved data collection to improve future analysis. 
 
 ### Sales Insights
 **Code:** [`Sales Insights.sql`](https://github.com/jeremiah-sanville/jeremiah-sanville/blob/main/Sales%20Insights.sql)    
