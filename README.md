@@ -43,7 +43,7 @@ In this section, I will list data analytics projects and briefly describe the to
 **Dashboard:** [`Sales Insights BI.pdf`](https://github.com/jeremiah-sanville/jeremiah-sanville/blob/main/Sales%20Insights%20BI.pdf)                                                                        
 **Technology:** SQL, MySQL, Power BI                                      
 **Skills:** Data cleaning, manipulation, analysis, visualization, star schema creation, and DAX.                                                                      
-**Results:** Created a dashboard that provides insights on the company's top/bottom markets and customers with date adjustable functionality. 
+**Results:** Created a dashboard that provides insights on the company's top/bottom markets and customers with date adjustable functionality. If you'd like to see the functionality, feel free to send me an email.
 
 ### COVID-19 Statistics
 **Code:** [`COVID Portfolio Project Queries.sql`](https://github.com/jeremiah-sanville/jeremiah-sanville/blob/main/COVID%20Portfolio%20Project%20Queries.sql)                                                                                                
