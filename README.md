@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, I'm a data analyst with a bachelor's degree in psychology from the University of Southern Maine. I discovered my passion for working with data during my studies and enjoyed creating visualizations. Professionally, I established a system of SQL-based daily map updates for my team in their respective region. After completing the Google Data Analytics Certification, I gained expertise in SQL, R, PowerBI, and Tableau, along with skills in data cleaning, manipulation, analysis, and visualization. I'm constantly eager to learn new tools and enhance my skills.
+Hi, I'm a data analyst with a bachelor's degree in psychology from the University of Southern Maine. I discovered my passion for working with data during my studies and enjoyed creating visualizations. After completing the Google Data Analytics Certification, I gained expertise in SQL, R, PowerBI, and Tableau, along with skills in data cleaning, manipulation, analysis, and visualization. Professionally, I established a system of SQL-based daily map updates for my team in their respective region. I'm constantly eager to learn new tools and enhance my skills.
 
 This is a repository to showcase my skills and projects in the data analytics and data science field.
 
